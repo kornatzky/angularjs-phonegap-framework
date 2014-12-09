@@ -1,0 +1,28 @@
+{
+  "name": "myapp",
+  "description": "Skeleton for PhoneGap app with AngularJS",
+  "version": "1.0.0",
+  "homepage": "http://yoramkornatzky.com",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "latest",
+    "angular-route": "latest",
+    "ngCordova": "latest",
+    "angular-touch": "latest",
+    "underscore": "latest",
+    "fontawesome": "latest",
+    "underscore.string": "latest",
+    "ngstorage": "latest",
+    "validator-js": "latest",
+    "underscore.number": "latest",
+    "angular-loading-bar": "latest",
+    "angular-animate": "latest",
+    "taffydb": "latest",
+    "foundation": "latest",
+    "bootstrap": "latest"
+  },
+  "resolutions": {
+    "angular": "1.3.4"
+  }
+}

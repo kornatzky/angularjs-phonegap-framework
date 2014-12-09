@@ -1,0 +1,86 @@
+// colors 
+
+.grey {
+  background-color: #cfdade;
+}
+
+$grey: #cfdade;
+
+.white {
+  background-color: #e5e8e9;
+}
+
+$white: #e5e8e9;
+
+.blue {
+  background-color: #075f85;
+}
+
+$blue: #075f85;
+
+.green {
+  background-color: #04b542;
+}
+
+$green: #04b542;
+
+.red {
+  background-color: #fc0315;
+}
+
+$red: #fc0315;
+
+.yellow {
+  background-color: #f6b403;
+}
+
+$yellow: #f6b403;
+
+.light-blue {
+  background-color: #92b1be;
+}
+
+$light-blue: #92b1be;
+
+.dark-grey {
+  background-color: #757575;
+}
+
+$dark-grey: #757575;
+
+.brown {
+  background-color: #bc7101;
+}
+
+$brown: #bc7101;
+
+// fonts
+
+
+$font-family: "Arial Regular";
+$font-style: "normal";
+
+
+
+@mixin family() {
+  font-family: $font-family;
+}
+
+/* and more and more ... */
+
+
+
+// sizes
+
+// top bar
+
+$top_bar_height: 10.15%;
+$sub_bar_height: 4.3%;
+$top_panel_height: 29.3%;
+
+/* and more and more ... */
+
+.view1 {
+
+}
+

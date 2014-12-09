@@ -1,4 +1,5 @@
 angularjs-phonegap-framework
 ============================
 
-An architecture for constructing a PhoneGap app with AngularJS and ngCordova.
+A skeleton structure for a PhoneGap app built with AngularJS and ngCordova.
+
